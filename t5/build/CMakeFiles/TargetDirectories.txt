@@ -1,0 +1,5 @@
+/home/maxliang/code/cmake/t5/build/CMakeFiles/rebuild_cache.dir
+/home/maxliang/code/cmake/t5/build/CMakeFiles/edit_cache.dir
+/home/maxliang/code/cmake/t5/build/src/CMakeFiles/rebuild_cache.dir
+/home/maxliang/code/cmake/t5/build/src/CMakeFiles/edit_cache.dir
+/home/maxliang/code/cmake/t5/build/src/CMakeFiles/curltest.dir

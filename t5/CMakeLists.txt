@@ -1,0 +1,4 @@
+#创建工程
+PROJECT(CURLTEST)
+#指定源文件目录
+ADD_SUBDIRECTORY(src)

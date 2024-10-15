@@ -1,0 +1,5 @@
+#设置工程名
+PROJECT(HELLOLIB)
+#设置源文件目录
+ADD_SUBDIRECTORY(lib)
+

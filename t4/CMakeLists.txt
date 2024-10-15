@@ -1,0 +1,4 @@
+#工程名称
+PROJECT(HELLO)
+#源文件子目录
+ADD_SUBDIRECTORY(src)

@@ -1,0 +1,10 @@
+#生成可执行文件
+ADD_EXECUTABLE(curltest main.c)
+#使用cmake提供的FindCURL模块来添加curl的头文件和库文件路径
+FIND_PACKAGE(CURL)
+IF(CURL_FOUND)#判断模块是否被找到
+   INCLUDE_DIRECTORIES(${CURL_INCLUDE_DIR})
+   TARGET_LINK_LIBRARIES(curltest ${CURL_LIBRARY})
+ELSE(CURL_FOUND)
+     MESSAGE(FATAL_ERROR ”CURL library not found”)
+ENDIF(CURL_FOUND)

@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++14 -Wall -O3 -O3 -DNDEBUG  -rdynamic CMakeFiles/geometry_practice.dir/geometry_practice.cpp.o  -o geometry_practice 

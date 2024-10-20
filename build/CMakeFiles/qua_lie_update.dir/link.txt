@@ -1,0 +1,1 @@
+/usr/bin/g++  -g  -rdynamic CMakeFiles/qua_lie_update.dir/validation.cpp.o  -o qua_lie_update   -L/home/maxliang/code/KZXTFZ/h3/Sophus/build  -Wl,-rpath,/home/maxliang/code/KZXTFZ/h3/Sophus/build -lSophus 

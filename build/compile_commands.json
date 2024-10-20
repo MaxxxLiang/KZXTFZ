@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/maxliang/code/KZXTFZ/h3/build",
+  "command": "/usr/bin/g++   -I/usr/include/eigen3 -I/home/maxliang/code/KZXTFZ/h3/Sophus  -g   -o CMakeFiles/qua_lie_update.dir/validation.cpp.o -c /home/maxliang/code/KZXTFZ/h3/validation.cpp",
+  "file": "/home/maxliang/code/KZXTFZ/h3/validation.cpp"
+}
+]

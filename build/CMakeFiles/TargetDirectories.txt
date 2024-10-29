@@ -1,0 +1,3 @@
+/home/maxliang/code/KZXTFZ/PnP/build/CMakeFiles/GN-BA.dir
+/home/maxliang/code/KZXTFZ/PnP/build/CMakeFiles/edit_cache.dir
+/home/maxliang/code/KZXTFZ/PnP/build/CMakeFiles/rebuild_cache.dir

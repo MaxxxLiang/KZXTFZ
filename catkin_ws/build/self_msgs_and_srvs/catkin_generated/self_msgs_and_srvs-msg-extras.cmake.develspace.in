@@ -1,0 +1,2 @@
+set(self_msgs_and_srvs_MESSAGE_FILES "/home/maxliang/Project/CQU/KZXTFZ/Code/hw8-1126/catkin_ws/src/self_msgs_and_srvs/msg/input_point.msg;/home/maxliang/Project/CQU/KZXTFZ/Code/hw8-1126/catkin_ws/src/self_msgs_and_srvs/msg/output_point.msg")
+set(self_msgs_and_srvs_SERVICE_FILES "/home/maxliang/Project/CQU/KZXTFZ/Code/hw8-1126/catkin_ws/src/self_msgs_and_srvs/srv/GlbObsRcv.srv;/home/maxliang/Project/CQU/KZXTFZ/Code/hw8-1126/catkin_ws/src/self_msgs_and_srvs/srv/LearningSampler.srv")

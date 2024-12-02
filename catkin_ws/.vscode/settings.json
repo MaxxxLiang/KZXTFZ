@@ -1,0 +1,10 @@
+{
+    "C_Cpp.intelliSenseEngine": "default",
+    "C_Cpp.intelliSenseEngineFallback": "Enabled",
+    "C_Cpp.autoAddFileAssociations": false,
+    "C_Cpp.default.includePath": [
+      "/opt/ros/noetic/include",
+      "/opt/ros/noetic/include/**"
+    ]
+  }
+  

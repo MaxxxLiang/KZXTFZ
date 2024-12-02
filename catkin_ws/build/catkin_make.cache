@@ -1,0 +1,2 @@
+map_gen/map_generator:map_gen/mockamap:occ_grid:path_finder:rviz_plugins:self_msgs_and_srvs
+-DCATKIN_DEVEL_PREFIX=/home/maxliang/Project/CQU/KZXTFZ/Code/hw8-1126/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/maxliang/Project/CQU/KZXTFZ/Code/hw8-1126/catkin_ws/install -G Unix Makefiles

@@ -3,13 +3,13 @@
         {
             "name": "Linux",
             "includePath": [
-                "${workspaceFolder}/**",
                 "/usr/include/**",
+                "/opt/ros/noetic/include/**",
                 "/usr/local/include/**",
-                "/opt/ros/noetic/include/*"
+                "${workspaceFolder}/**"
             ],
             "defines": [],
-            "compilerPath": "/usr/bin/gcc",
+            "compilerPath": null,
             "cStandard": "c17",
             "cppStandard": "gnu++14",
             "intelliSenseMode": "linux-gcc-x64"

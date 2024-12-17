@@ -1,0 +1,8 @@
+prefix=/home/maxliang/Project/CQU/KZXTFZ/Code/hw7-1119/catkin_ws/build/devel
+
+Name: grid_path_searcher
+Description: Description of grid_path_searcher
+Version: 0.0.1
+Cflags: -I/home/maxliang/Project/CQU/KZXTFZ/Code/hw7-1119/catkin_ws/src/grid_path_searcher/include
+Libs: -L${prefix}/lib 
+Requires: 

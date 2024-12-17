@@ -1,2 +1,2 @@
 - setup-file:
-    local-name: /home/maxliang/Project/CQU/KZXTFZ/Code/hw7-1119/catkin_ws/install/setup.sh
+    local-name: /usr/local/setup.sh

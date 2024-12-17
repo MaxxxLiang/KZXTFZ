@@ -1,8 +1,0 @@
-prefix=/home/maxliang/Project/CQU/KZXTFZ/Code/hw7-1119/catkin_ws/devel
-
-Name: rviz_plugins
-Description: Description of rviz_plugins
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

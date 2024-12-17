@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20241201-1510-Experimental"
+	Name="maxl-laptop-ubuntu"
+	Generator="ctest-3.31.0"
+	CompilerName="/usr/bin/g++"
+	CompilerVersion="9.4.0"
+	OSName="Linux"
+	Hostname="maxl-laptop-ubuntu"
+	OSRelease="5.15.0-125-generic"
+	OSVersion="#135~20.04.1-Ubuntu SMP Mon Oct 7 13:56:22 UTC 2024"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="141"
+	ModelName="11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz"
+	ProcessorCacheSize="24576"
+	NumberOfLogicalCPU="16"
+	NumberOfPhysicalCPU="8"
+	TotalVirtualMemory="15624"
+	TotalPhysicalMemory="15729"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="4265.04"
+	>
+	<Testing>
+		<StartDateTime>Dec 02 00:45 CST</StartDateTime>
+		<StartTestTime>1733071525</StartTestTime>
+		<TestList/>
+		<EndDateTime>Dec 02 00:45 CST</EndDateTime>
+		<EndTestTime>1733071525</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

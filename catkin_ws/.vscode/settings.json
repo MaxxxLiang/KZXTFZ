@@ -85,5 +85,12 @@
         "typeinfo": "cpp",
         "variant": "cpp"
     },
-    "cmake.sourceDirectory": "/home/maxliang/Project/CQU/KZXTFZ/Code/hw7-1119/catkin_ws/src/grid_path_searcher"
+    "cmake.sourceDirectory": "/home/maxliang/Project/CQU/KZXTFZ/Code/hw7-1119/catkin_ws/src/grid_path_searcher",
+    "python.autoComplete.extraPaths": [
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ],
+    "C_Cpp.default.compilerPath": "/usr/bin/g++"
 }

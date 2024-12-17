@@ -1,0 +1,2 @@
+.
+-DCATKIN_DEVEL_PREFIX=/home/maxliang/Project/CQU/KZXTFZ/Code/hw9-1203/ROS_WS/devel -DCMAKE_INSTALL_PREFIX=/home/maxliang/Project/CQU/KZXTFZ/Code/hw9-1203/ROS_WS/install -G Unix Makefiles
